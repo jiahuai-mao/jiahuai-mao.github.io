@@ -65,10 +65,16 @@ redirect_from:
         }
         // finally, join the authors and bold the name in myname
         var author = authors.join(", ");
-        for (var j = 0; j < myname.length; j++) {
-            author = author.replace(myname[j], "<b>" + myname[j] + "</b>");
-        }
         // author = author.replace(myname, "<b>" + myname + "</b>");
+        for (var j = 0; j < myname.length; j++) {
+            // author = author.replace(myname[j], "<b>" + myname[j] + "</b>");
+            var correspondingAuthor = myname[j] + "*";
+            if (author.includes(correspondingAuthor)) {
+                author = author.replace(correspondingAuthor, "<b><u>" + myname[j] + "</u></b><sup>✉</sup>");
+            } else {
+                author = author.replace(myname[j], "<b>" + myname[j] + "</b>");
+            }
+        }
         return author;
     }
     function getRemote(remote_url) {
