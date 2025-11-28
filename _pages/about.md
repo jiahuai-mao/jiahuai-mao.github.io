@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: 
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Jiahuai Mao (previously published as Lulu Wang) is a Postdoctoral Fellow in the Department of Computing at The Hong Kong Polytechnic University (PolyU), working with [Prof. Man Ho Allen Au](https://web.comp.polyu.edu.hk/mhaau/). He received his Ph.D. in Software Engineering from East China Normal University under the supervision of [Prof. Lei Zhang](https://faculty.ecnu.edu.cn/_s43/zl2/main.psp). From 2022 to 2023, he was a visiting Ph.D. student with the SPRITZ Security and Privacy Research Group at the University of Padua, supervised by [Prof. Mauro Conti](https://www.math.unipd.it/~conti/), and from 2023 to 2024 he was a visiting scholar with the ISTD Pillar at the Singapore University of Technology and Design, under the supervision of [Prof. Zehui Xiong](https://sites.google.com/view/zehuixiong). His research interests lie at the intersection of security, privacy, and machine learning.
+Dr. Jiahuai Mao (previously published as Lulu Wang) is a Postdoctoral Fellow in the Department of Computing at The Hong Kong Polytechnic University (PolyU), working with [Prof. Man Ho Allen Au](https://web.comp.polyu.edu.hk/mhaau/). He received his Ph.D. in Software Engineering from East China Normal University (ECNU) under the supervision of [Prof. Lei Zhang](https://faculty.ecnu.edu.cn/_s43/zl2/main.psp). From 2022 to 2023, he was a visiting Ph.D. student with the SPRITZ Security and Privacy Research Group at the University of Padua (UNIPD), supervised by [Prof. Mauro Conti](https://www.math.unipd.it/~conti/), and from 2023 to 2024 he was a visiting scholar with the ISTD Pillar at the Singapore University of Technology and Design (SUTD), under the supervision of [Prof. Zehui Xiong](https://sites.google.com/view/zehuixiong). His research interests lie at the intersection of security, privacy, and machine learning.
 
 💬 jiahuai.mao@polyu.edu.hk
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -84,18 +84,18 @@ Dr. Jiahuai Mao (previously published as Lulu Wang) is a Postdoctoral Fellow in 
 
 # 📖 Educations & Work Experience
 - *2025.08 - Now*, Postdoctoral Fellow at Department of Computing, The Hong Kong Polytechnic University, Hong Kong, China.
-- *2025.02 - 2025.08*, Research Assistant at Department of Computing, The Hong Kong Polytechnic University, HongKong, China.
-- *2024.01 - 2025.01*, Visiting Ph.D. Student at ISTD Pillar, Singapore University of Technology and Design, Singapore.
+- *2025.02 - 2025.08*, Research Assistant at Department of Computing, The Hong Kong Polytechnic University, Hong Kong, China.
+- *2024.01 - 2025.01*, Visiting scholar at ISTD Pillar, Singapore University of Technology and Design, Singapore.
 - *2022.10 - 2023.10*, Visiting Ph.D. Student at SPRITZ Security and Privacy Research Group, University of Padua, Italy.
-- *2019.09 - 2025.06*, Ph.D student at Software Engineering Institute, East China Normal University, Shanghai, China.
+- *2019.09 - 2025.06*, Ph.D candidate at Software Engineering Institute, East China Normal University, Shanghai, China.
 
 
 
 # 📫 Services
 
 <!-- - Junior PC:  -->
-- Sub-reviewer: ESORICS 2025, SciSec 2025
-- Journal Reviewer: IEEE Transactions on Information Forensics and Security (TIFS), IEEE/ACM Transactions on Networking (TON), IEEE Transactions on Intelligent Transportation Systems (TITS), Future Generation Computer Systems (FGCS), IEEE Internet of Things Journal (IOTJ)
+- Sub-reviewer: ESORICS 2025, SciSec 2025, ACISP 2025.
+- Journal Reviewer: IEEE Transactions on Information Forensics and Security (TIFS), IEEE/ACM Transactions on Networking (TON), IEEE Transactions on Intelligent Transportation Systems (TITS), Future Generation Computer Systems (FGCS), IEEE Internet of Things Journal (IOTJ).
 
 
 <!-- # 🎖 Honors and Awards
