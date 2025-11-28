@@ -17,12 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Jiahuai Mao (previously published as Lulu Wang) is currently a Postdoctoral Fellow working with [Prof. Man Ho Allen Au](https://web.comp.polyu.edu.hk/mhaau/), in the Department of Computing at The Hong Kong Polytechnic University (PolyU). 
-He received his Ph.D. in Software Engineering from East China Normal University under the supervision of [Prof. Lei Zhang](https://faculty.ecnu.edu.cn/_s43/zl2/main.psp).  
-He was a visiting Ph.D. student with the SPRITZ Security and Privacy Research Group at the University of Padua, under the supervision of [Prof. Mauro Conti](https://www.math.unipd.it/~conti/) during 2022-2023.
-
-During 2023-2024, he wa a visiting scholar with the Information Systems Technology and Design Pillar at the Singapore University of Technology and Design, under the supervision of [Prof. Zehui Xiong](https://sites.google.com/view/zehuixiong). His research interests lie at the intersection of security, privacy, and machine learning.
-
+Dr. Jiahuai Mao (previously published as Lulu Wang) is a Postdoctoral Fellow in the Department of Computing at The Hong Kong Polytechnic University (PolyU), working with [Prof. Man Ho Allen Au](https://web.comp.polyu.edu.hk/mhaau/). He received his Ph.D. in Software Engineering from East China Normal University under the supervision of [Prof. Lei Zhang](https://faculty.ecnu.edu.cn/_s43/zl2/main.psp). From 2022 to 2023, he was a visiting Ph.D. student with the SPRITZ Security and Privacy Research Group at the University of Padua, supervised by [Prof. Mauro Conti](https://www.math.unipd.it/~conti/), and from 2023 to 2024 he was a visiting scholar with the ISTD Pillar at the Singapore University of Technology and Design, under the supervision of [Prof. Zehui Xiong](https://sites.google.com/view/zehuixiong). His research interests lie at the intersection of security, privacy, and machine learning.
 
 💬 jiahuai.mao@polyu.edu.hk
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->

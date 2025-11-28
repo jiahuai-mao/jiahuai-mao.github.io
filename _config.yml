@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiahuai Mao's Homepage"
-description              : "毛嘉淮"
+description              : "The Hong Kong Polytechnic University"
 repository               : "https://jiahuai-mao.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   avatar           : "/images/photo.jpg"
   bio              : "毛嘉淮"
   location         : "Hong Kong, China"
-  employer         : "PolyU"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.co.jp/citations?user=P0dYyL4AAAAJ&hl=en"
   email            : "jiahuai.mao@polyu.edu.hk"
