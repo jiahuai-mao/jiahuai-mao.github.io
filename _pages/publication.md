@@ -66,7 +66,7 @@ redirect_from:
         // finally, join the authors and bold the name in myname
         var author = authors.join(", ");
         // first, mark all corresponding authors (with *)
-        // author = author.replace(/(\w+(?:\s+\w+)*)\*/g, "$1<sup>✉</sup>");
+        author = author.replace(/(\w+(?:\s+\w+)*)\*/g, "$1<sup>✉</sup>");
         // then, bold myname authors
         // author = author.replace(myname, "<b>" + myname + "</b>");
         for (var j = 0; j < myname.length; j++) {
