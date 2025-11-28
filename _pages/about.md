@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Han Liu (刘晗 in Chinese) is now a postdoctoral scholar working with [Prof. Shuai Wang](https://home.cse.ust.hk/~shuaiw/) and [Prof. Daoyuan Wu](https://daoyuan14.github.io/), in Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST). He obtained his Ph.D. degree in Software Engineering Institute at East China Normal University (ECNU), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). He is also a visiting student at Nanyang Technological University under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2024. His research interests include program analysis, vulnerability detection.
-He hopes to collaborate with more innovative researchers on various exciting topics in software engineering, program analysis, vulnerability detection, and program synthesis.
+Dr. Jiahuai Mao (previously published as Lulu Wang) is currently a Postdoctoral Fellow working with [Prof. Man Ho Allen Au](https://web.comp.polyu.edu.hk/mhaau/), in the Department of Computing at The Hong Kong Polytechnic University (PolyU). 
+He received his Ph.D. in Software Engineering from East China Normal University under the supervision of [Prof. Lei Zhang](https://faculty.ecnu.edu.cn/_s43/zl2/main.psp).  
+He was a visiting Ph.D. student with the SPRITZ Security and Privacy Research Group at the University of Padua, under the supervision of [Prof. Mauro Conti](https://www.math.unipd.it/~conti/) during 2022-2023.
 
-💬 liuhan AT ust DOT hk
+During 2023-2024, he wa a visiting scholar with the Information Systems Technology and Design Pillar at the Singapore University of Technology and Design, under the supervision of [Prof. Zehui Xiong](https://sites.google.com/view/zehuixiong). His research interests lie at the intersection of security, privacy, and machine learning.
+
+
+💬 jiahuai.mao@polyu.edu.hk
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our paper "Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts" and "Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study" were accepted by ASE 2025.
 - *2025.03*: &nbsp;🎉🎉 Our paper "Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration" was accepted by ISSTA 2025.
 - *2024.09*: &nbsp;🎉🎉 I joined the Hong Kong University of Science and Technology as a postdoctoral scholar.
@@ -36,16 +40,12 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - *2023.12*: &nbsp;🎉🎉 Our paper "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis" was accepted by ICSE 2024.
 - *2023.07*: &nbsp;🎉🎉 Our paper "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java" was accepted by ESEC/FSE 2023.
 - *2023.01*: &nbsp;🎉🎉 Our paper "A Comprehensive Study on Quality Assurance Tools for Java" was accepted by ISSTA 2023.
-- *2022.02*: &nbsp;🎉🎉 I joined Nanyang Technological University as a visiting Ph.D. student. 
+- *2022.02*: &nbsp;🎉🎉 I joined Nanyang Technological University as a visiting Ph.D. student.  -->
 
-# 📝 Selected Publications [[Full List](/publication/)]
+<!-- # 📝 Selected Publications [[Full List](/publication/)] -->
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
 
-<!-- </div>
-</div> -->
-- [Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts](https://doi.org/xxxxxxxxx) 
+<!-- - [Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts](https://doi.org/xxxxxxxxx) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)](https://conf.researchr.org/home/ase-2025) 
   - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Shuai Wang, Yang Liu, Yixiang Chen 
   - The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
@@ -84,28 +84,28 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - [Survey on Trustworthiness Measurement for Artificial Intelligence Systems](http://www.jos.org.cn/1000-9825/6592.htm) 
 [![](https://img.shields.io/badge/RuanJianXueBao-blue?style=flat-square)]() 
   - **Han Liu**,Kaixuan Li, Yixiang Chen.
-  - Ruan Jian Xue Bao/Journal of Software (in Chinese)
+  - Ruan Jian Xue Bao/Journal of Software (in Chinese) -->
 
 
 # 📖 Educations & Work Experience
-- *2024.09 - Now*, Postdoctoral scholar at Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, Hong Kong, China.
-- *2022.02 - 2024.02*, Visiting Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
-- *2019.09 - 2024.06*, Ph.D student at Software Engineering Institute, East China Normal University, Shanghai, China. 
+- *2025.08 - Now*, Postdoctoral Fellow at Department of Computing, The Hong Kong Polytechnic University, Hong Kong, China.
+- *2025.02 - 2025.08*, Research Assistant at Department of Computing, The Hong Kong Polytechnic University, HongKong, China.
+- *2024.01 - 2025.01*, Visiting Ph.D. Student at ISTD Pillar, Singapore University of Technology and Design, Singapore.
+- *2022.10 - 2023.10*, Visiting Ph.D. Student at SPRITZ Security and Privacy Research Group, University of Padua, Italy.
+- *2019.09 - 2025.06*, Ph.D student at Software Engineering Institute, East China Normal University, Shanghai, China.
 
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 📫 Services
 
-- Junior PC: ICSE 2026, MSR 2025, MSR 2024
-- Sub-reviewer: NDSS 2026, ASE 2025, CCS 2025, OOPSLA 2025, IEEE S&P 2025, ISSTA 2025, Usenix Security 2025, ICSE 2025, NDSS 2025, ASE 2024, CCS 2024, ISSTA 2024, AISACCS 2024, WWW 2024, ASE 2023, FSE 2023, AILA 2023, FSE 2022, AILA 2022, Frontiers of Computer Science
-- Journal Reviewer: ACM Transactions on Software Engineering and Methodology
+<!-- - Junior PC:  -->
+- Sub-reviewer: ESORICS 2025, SciSec 2025
+- Journal Reviewer: IEEE Transactions on Information Forensics and Security (TIFS), IEEE/ACM Transactions on Networking (TON), IEEE Transactions on Intelligent Transportation Systems (TITS), Future Generation Computer Systems (FGCS), IEEE Internet of Things Journal (IOTJ)
 
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - ACM SIGSOFT Distinguished Paper award, FSE 2024, 2024.
 -	The distinguished Ph.D. thesis at the College of Information Technology, East China Normal University, 2024.  
 - Shanghai Outstanding Graduate Student, Shanghai Municipal Education Commission, 2024.
 - Publicly Funded Postgraduate Scholarships, China Scholarship Council, 2022.
-- "HUAWEI CUP" 17th China Post-Graduate Mathematical Contest in Modeling 3rd Prize, 2020.
+- "HUAWEI CUP" 17th China Post-Graduate Mathematical Contest in Modeling 3rd Prize, 2020. -->
